@@ -7,6 +7,7 @@ Gallery --> Activity --> Server
 - Upload File Folder : Tomcat >> webapps >> ROOT >> images
 - Upload Library :  Tomcat >> lib <- cos.jar
 
+Android Studio Open후
 - Android >> Gradle Scripts >> build.gradle(Module)에 okhttp3 추가
 
 - Image Upload방식을 AsyncTask 사용
